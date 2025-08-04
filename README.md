@@ -6,4 +6,8 @@ This repository contains JavaScript solutions to LeetCode problems, auto-synced 
 
 ## Problems Solved
 
-> LeetHub will automatically update this section.
+### [LeetCode Problems](https://leetcode.com)
+
+<!--- LeetHub progress --->  
+<!--- LeetHub end --->
+
