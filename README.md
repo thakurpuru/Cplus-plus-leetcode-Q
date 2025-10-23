@@ -22,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -33,4 +34,8 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
