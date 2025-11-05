@@ -14,27 +14,28 @@ public:
         ListNode* temp=head;
         if(temp==NULL) return temp;
         if(temp->next==NULL) return temp;
+        ListNode* slow=head,*fast=head;
+        int n=0;
+        while(fast!=NULL){
+            fast=fast->next;
+            n++;
+        }
+        if(k==0) return head;
+        k=k%n;
+        if(k==0) return head;
         int count=0;
-        while(temp!=NULL ){
+        while(count!= k){
+            temp=temp->next;
             count++;
+        }
+        
+        while(temp->next!=NULL){
             temp=temp->next;
+            slow=slow->next;
         }
-        if(k==0) return head;
-        k=k%count;
-        if(k==0) return head;
-        int req=count-k;
-        temp=head;
-        for(int i=1;i<req;i++){
-            temp=temp->next;
-        }
-        ListNode* temp1=temp->next;
-        ListNode* newhead=temp1;
-        temp->next=NULL;
-        while(temp1!=NULL && temp1->next!=NULL){
-            temp1=temp1->next;
-        }
-        if(temp1!=NULL)
-        temp1->next=head;
+        ListNode* newhead=slow->next;
+        slow->next=NULL;
+        temp->next=head;
         return newhead;
         
     }
