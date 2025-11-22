@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0146-lru-cache) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0283-move-zeroes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -170,10 +172,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
 ## Monotonic Stack
@@ -183,6 +187,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
