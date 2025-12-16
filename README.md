@@ -39,6 +39,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
