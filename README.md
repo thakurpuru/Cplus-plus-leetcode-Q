@@ -70,6 +70,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
+| [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -180,6 +182,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
