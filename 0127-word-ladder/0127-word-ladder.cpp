@@ -1,7 +1,8 @@
 class Solution {
 public:
-    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        if(find(wordList.begin(),wordList.end(),endWord)==wordList.end()){
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList){
+        unordered_set<string> st(wordList.begin(),wordList.end());
+        if(!st.count(endWord)){
             return 0;
         }
         int n=wordList.size();
@@ -19,18 +20,17 @@ public:
                     if(s1==endWord) return ans;
 
 
-                    for(int i=0;i<n;i++){
-                        if(s1.size()==wordList[i].size() && !vis[i]){
-                            int count=0;
-                            for(int j=0;j<s1.size();j++){
-                                if(s1[j]!=wordList[i][j]) count++;
-                                if(count>2) break;
+                    for(int i=0;i<s1.size();i++){
+                        char org=s1[i];
+                            for(int j=0;j<26;j++){
+                                s1[i]='a'+j;
+                                if(st.count(s1)){
+                                    q.push(s1);
+                                    st.erase(s1);
+                                }
                             }
-                            if(count==1){
-                                q.push(wordList[i]);
-                                vis[i]=true;
-                            }
-                        }
+                            s1[i]=org;
+                        
                     }
                 }
             }
