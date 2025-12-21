@@ -24,6 +24,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0146-lru-cache) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0310-minimum-height-trees) |
