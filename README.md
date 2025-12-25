@@ -186,6 +186,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -200,6 +201,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -211,6 +213,7 @@
 | [0310-minimum-height-trees](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
@@ -284,4 +287,5 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
