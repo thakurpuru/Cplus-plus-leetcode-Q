@@ -84,6 +84,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -145,6 +146,7 @@
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0239-sliding-window-maximum) |
+| [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
 |  |
@@ -194,6 +197,7 @@
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
+| [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -211,6 +215,7 @@
 | [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
@@ -280,6 +285,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0300-longest-increasing-subsequence) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -297,4 +303,5 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
+| [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
