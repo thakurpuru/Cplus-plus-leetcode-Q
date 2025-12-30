@@ -172,6 +172,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -202,6 +203,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
@@ -219,6 +221,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
+| [0744-network-delay-time](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
@@ -234,6 +237,7 @@
 | [0310-minimum-height-trees](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -316,5 +320,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
