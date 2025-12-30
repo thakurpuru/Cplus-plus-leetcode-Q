@@ -5,20 +5,7 @@ public:
         for(auto t:times){
             g[t[0]].push_back({t[1],t[2]});
         }
-        vector<bool> vis(n+1,false);
-
-        function<void(int)> dfs=[&](int src){
-            vis[src]=true;
-            for(auto e:g[src]){
-                if(!vis[e.first]){
-                    dfs(e.first);
-                }
-            }
-        };
-        dfs(k);
-        for(int i=1;i<=n;i++){
-            if(!vis[i]) return -1;
-        }
+        
         queue<pair<int,int>> q;
     
         q.push({0,k});
@@ -28,6 +15,7 @@ public:
         while(!q.empty()){
             auto [d,u]=q.front();
             q.pop();
+            if(d > dist[u]) continue;
             for(auto [v,wt]:g[u]){
                 if(dist[v]>d+wt){
                     dist[v]=d+wt;
@@ -37,6 +25,7 @@ public:
         }
         int ans=0;
         for(int i=1;i<=n;i++){
+            if(dist[i]==INT_MAX) return -1;
             ans=max(ans,dist[i]);
         }
         return ans;
