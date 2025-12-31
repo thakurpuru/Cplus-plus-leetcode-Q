@@ -20,30 +20,30 @@ public:
             if (d > dist[u]) continue;
                 for(auto [v,wt]:g[u]){
                     if(dist[v]>d+wt){
-                        ways[v]=ways[u];
+                        
                         dist[v]=d+wt;
                         q.push({dist[v],v});
-                    }else if(dist[v]==d+wt){
-                        ways[v]=(ways[u]+ways[v])%mod;
                     }
                 }
             }
 
         
-        // int mincost=dist[n-1];
-        // int count=0;
-        // function<void(int,int)> dfs=[&](int src,int cost){
-        //     vis[src]=true;
-        //     if(src==n-1 && cost==mincost) count++;
-        //     for(auto [v,wt]:g[src]){
-        //         if(!vis[v]){
-        //             dfs(v,cost+wt);
-        //         }
-        //     }
-        //     vis[src]=false;
+        
+        vector<int>dp(n,-1);
+        function<int(int)> dfs=[&](int src){
+            
+            if(src==n-1) return 1;
+            if(dp[src]!=-1) return dp[src];
+            long long ans=0;
+            for(auto [v,wt]:g[src]){
+                if(dist[v]==dist[src]+wt){
+                    ans=(ans+dfs(v))%mod;
+                }
+            }
+            return dp[src]=ans;
 
-        // };
-        // dfs(0,0);
-        return ways[n-1];
+        };
+        
+        return dfs(0);
     }
 };
