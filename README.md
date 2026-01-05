@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 ## Recursion
 |  |
@@ -200,6 +201,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -281,6 +283,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
@@ -295,6 +298,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
