@@ -296,6 +296,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0783-search-in-a-binary-search-tree) |
@@ -317,6 +318,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0783-search-in-a-binary-search-tree) |
@@ -330,6 +332,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0300-longest-increasing-subsequence) |
+| [0450-delete-node-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
