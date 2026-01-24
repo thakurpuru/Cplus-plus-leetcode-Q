@@ -48,6 +48,7 @@
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -107,6 +109,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Linked List
@@ -130,6 +133,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
