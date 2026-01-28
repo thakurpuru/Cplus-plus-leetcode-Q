@@ -105,6 +105,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Sorting
@@ -168,6 +169,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
