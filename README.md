@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0091-decode-ways) |
@@ -140,6 +141,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -177,6 +179,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0072-edit-distance) |
@@ -217,6 +220,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
 ## Design
 |  |
