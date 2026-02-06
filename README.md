@@ -76,6 +76,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3952-trionic-array-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Sorting
@@ -127,6 +129,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
