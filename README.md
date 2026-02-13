@@ -39,6 +39,7 @@
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## Greedy
 |  |
