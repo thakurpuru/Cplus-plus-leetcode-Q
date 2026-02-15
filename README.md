@@ -57,6 +57,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0115-distinct-subsequences) |
@@ -168,6 +169,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -176,6 +178,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -422,6 +425,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
 ## Graph Theory
 |  |
