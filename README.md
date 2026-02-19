@@ -10,6 +10,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0595-big-countries) |
 | [1182-game-play-analysis-iv](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1182-game-play-analysis-iv) |
