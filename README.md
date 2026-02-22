@@ -431,6 +431,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
 ## Graph Theory
 |  |
 | ------- |
