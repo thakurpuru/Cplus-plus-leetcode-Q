@@ -438,6 +438,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Graph Theory
 |  |
 | ------- |
