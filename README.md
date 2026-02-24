@@ -274,6 +274,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1285-balance-a-binary-search-tree) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -362,6 +363,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1285-balance-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Monotonic Stack
@@ -385,6 +387,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1285-balance-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
