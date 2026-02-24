@@ -102,6 +102,7 @@
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0981-delete-columns-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -194,6 +196,7 @@
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
