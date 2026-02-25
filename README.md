@@ -113,6 +113,7 @@
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1306-minimum-absolute-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -142,6 +143,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1306-minimum-absolute-difference](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1306-minimum-absolute-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -418,6 +420,7 @@
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 ## Queue
@@ -451,6 +454,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Graph Theory
 |  |
