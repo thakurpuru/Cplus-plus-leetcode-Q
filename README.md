@@ -75,6 +75,7 @@
 | [1170-shortest-common-supersequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -463,6 +465,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Graph Theory
