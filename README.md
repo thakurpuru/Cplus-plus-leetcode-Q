@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0072-edit-distance) |
@@ -377,6 +379,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1285-balance-a-binary-search-tree) |
