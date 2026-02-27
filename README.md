@@ -119,6 +119,7 @@
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1306-minimum-absolute-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -193,6 +194,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
