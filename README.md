@@ -112,6 +112,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0658-find-k-closest-elements) |
+| [0667-beautiful-arrangement-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0667-beautiful-arrangement-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
+| [0667-beautiful-arrangement-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0667-beautiful-arrangement-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
