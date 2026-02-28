@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
@@ -156,6 +157,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0164-maximum-gap) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -384,6 +386,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 ## Trie
