@@ -103,6 +103,7 @@
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0164-maximum-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
@@ -252,6 +253,7 @@
 | [0091-decode-ways](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0300-longest-increasing-subsequence) |
