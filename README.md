@@ -96,6 +96,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
@@ -382,6 +383,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 ## Trie
