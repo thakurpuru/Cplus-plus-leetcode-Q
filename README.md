@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
@@ -250,6 +251,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
@@ -387,6 +389,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
