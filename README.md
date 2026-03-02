@@ -528,6 +528,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
+| [1212-sequential-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1212-sequential-digits) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 ## Segment Tree
