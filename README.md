@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
