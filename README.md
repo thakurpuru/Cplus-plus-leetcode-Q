@@ -228,6 +228,7 @@
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -289,6 +290,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -563,4 +565,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
