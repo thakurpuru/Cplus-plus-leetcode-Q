@@ -17,22 +17,17 @@ public:
         return true;
     }
     vector<pair<int,int>> empty;
-    bool solve(vector<vector<char>>& board,int id,vector<unordered_set<char>>& row_set,vector<unordered_set<char>>& col_set,vector<unordered_set<char>>& box_set){
+    bool solve(vector<vector<char>>& board,int id){
         if(id==empty.size()) return true;
         auto [r,c]=empty[id];
         int idx=(r/3)*3+(c/3);
         for(int i=1;i<=9;i++){
             char ch=i+'0';
-            if(!row_set[r].count(ch) && !col_set[c].count(ch) && !box_set[idx].count(ch)){
-                row_set[r].insert(ch);
-                col_set[c].insert(ch);
-                box_set[idx].insert(ch);
+            if(issafe(board,r,c,ch)){
                 board[r][c]=ch;
-                if(solve(board,id+1,row_set,col_set,box_set)) return true;
+                if(solve(board,id+1)) return true;
                 board[r][c]='.';
-                row_set[r].erase(ch);
-                col_set[c].erase(ch);
-                box_set[idx].erase(ch);
+                
 
             }
             
@@ -42,21 +37,15 @@ public:
         
     }
     void solveSudoku(vector<vector<char>>& board) {
-        vector<unordered_set<char>> row_set(9),col_set(9),box_set(9);
+       
 
         for(int k=0;k<9;k++){
             for(int l=0;l<9;l++){
-                if(board[k][l]!='.'){
-                    char ch=board[k][l];
-                    row_set[k].insert(ch);
-                    col_set[l].insert(ch);
-                    int idx=(k/3)*3+(l/3);
-                    box_set[idx].insert(ch);
-                }else{
+                if(board[k][l]=='.'){
                     empty.push_back({k,l});
                 }
             }
         }
-        solve(board,0,row_set,col_set,box_set);
+        solve(board,0);
     }
 };
