@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0127-word-ladder) |
@@ -104,6 +105,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
@@ -251,6 +253,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
@@ -419,6 +422,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0046-permutations) |
