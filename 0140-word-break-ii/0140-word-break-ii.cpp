@@ -1,6 +1,39 @@
+class TrieNode{
+    TrieNode *children[26];
+    bool eof;
+    public:
+    TrieNode(){
+        eof=false;
+        for(int i=0;i<26;i++){
+            children[i]=NULL;
+        }
+    }
+    void insert(TrieNode *root,string word){
+        TrieNode *curr=root;
+        for(int i=0;i<word.size();i++){
+            int idx=word[i]-'a';
+            if(curr->children[idx]==NULL){
+                TrieNode *newnode= new TrieNode();
+                curr->children[idx]=newnode;
+            }
+            curr=curr->children[idx];
+        }
+        curr->eof=true;
+    }
+    bool search(TrieNode *root,string word){
+        TrieNode *curr=root;
+        for(int i=0;i<word.size();i++){
+            int idx=word[i]-'a';
+            if(curr->children[idx]==NULL) return false;
+            curr=curr->children[idx];
+        }
+        return curr->eof;
+    }
+};
 class Solution {
 public:
-    void backtrack(string& s,int start,unordered_set<string>&st,vector<string>& curr,vector<string>& result, vector<bool>& dp){
+    TrieNode *root=new TrieNode();
+    void backtrack(string& s,int start,vector<string>& curr,vector<string>& result){
         if(start==s.size()){
             string sentence="";
             for(auto& word:curr){
@@ -11,9 +44,9 @@ public:
         }
         for(int i=start+1;i<=s.size();i++){
             string word=s.substr(start,i-start);
-            if(dp[i] && st.count(word)){
+            if(root->search(root,word)){
                 curr.push_back(word);
-                backtrack(s,i,st,curr,result,dp);
+                backtrack(s,i,curr,result);
                 curr.pop_back();
             }
         }
@@ -21,23 +54,12 @@ public:
     vector<string> wordBreak(string s, vector<string>& wordDict) {
         vector<string> result;
         vector<string> curr;
-        int n=s.size();
-        unordered_set<string> st(wordDict.begin(),wordDict.end());
         
-        vector<bool> dp(n+1,false);
-        dp[0]=true;
-        int j=0;
-        string str="";
-        for(int i=1;i<=n;i++){
-            for(int j=0;j<i;j++){
-                if(dp[j] && st.count(s.substr(j,i-j))){
-                    dp[i]=true;
-                    break;
-                }
-
-            }
+        for(int i=0;i<wordDict.size();i++){
+            root->insert(root,wordDict[i]);
         }
-        backtrack(s,0,st,curr,result,dp);
+        
+        backtrack(s,0,curr,result);
         return result;
     }
 };
