@@ -84,6 +84,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0583-delete-operation-for-two-strings) |
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
 | [0981-delete-columns-to-make-sorted](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0981-delete-columns-to-make-sorted) |
+| [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
 | [1170-shortest-common-supersequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -149,6 +150,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0981-delete-columns-to-make-sorted) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
+| [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1306-minimum-absolute-difference) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -453,6 +456,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -605,4 +609,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
+## Data Stream
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
 <!---LeetCode Topics End-->
