@@ -76,6 +76,7 @@
 | [0115-distinct-subsequences](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
@@ -336,6 +337,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -349,6 +351,7 @@
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -443,6 +446,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
