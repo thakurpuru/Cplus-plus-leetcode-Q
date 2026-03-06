@@ -77,6 +77,7 @@
 | [0127-word-ladder](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
@@ -127,6 +128,7 @@
 | [0164-maximum-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0283-move-zeroes) |
@@ -262,6 +264,7 @@
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
@@ -437,6 +440,7 @@
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0216-combination-sum-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
@@ -447,6 +451,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
