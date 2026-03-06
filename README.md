@@ -95,6 +95,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
