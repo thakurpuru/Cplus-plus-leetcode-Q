@@ -100,6 +100,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
@@ -110,6 +111,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0658-find-k-closest-elements) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
 ## Array
@@ -316,6 +318,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
