@@ -42,6 +42,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -101,6 +102,7 @@
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
@@ -173,6 +175,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -458,6 +461,7 @@
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 ## Trie
 |  |
 | ------- |
