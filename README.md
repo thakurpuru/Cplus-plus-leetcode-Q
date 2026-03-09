@@ -175,6 +175,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -322,6 +323,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
