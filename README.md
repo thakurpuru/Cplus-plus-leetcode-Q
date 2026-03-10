@@ -248,6 +248,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0342-power-of-four) |
 | [0667-beautiful-arrangement-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0667-beautiful-arrangement-ii) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
@@ -351,6 +352,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
@@ -574,6 +576,7 @@
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
