@@ -583,6 +583,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
 | [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
+| [1054-complement-of-base-10-integer](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1054-complement-of-base-10-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
