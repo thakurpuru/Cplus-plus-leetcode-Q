@@ -65,6 +65,7 @@
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0658-find-k-closest-elements) |
+| [0861-flipping-an-image](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0861-flipping-an-image) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
@@ -158,6 +159,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
 | [0839-short-encoding-of-words](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0839-short-encoding-of-words) |
+| [0861-flipping-an-image](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0981-delete-columns-to-make-sorted) |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
+| [0861-flipping-an-image](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -286,6 +289,7 @@
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0861-flipping-an-image](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
@@ -590,6 +594,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
+| [0861-flipping-an-image](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1054-complement-of-base-10-integer) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
