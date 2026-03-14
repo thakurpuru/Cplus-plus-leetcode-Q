@@ -9,7 +9,7 @@ public:
         }
         for(int i=0;i<3;i++){
             int j=s.size();
-            if(j==0 || s[j-1]!=st[i]){
+            if(s.empty() || s.back()!=st[i]){
                 solve(n,s+st[i],st,k);
             }
         }
