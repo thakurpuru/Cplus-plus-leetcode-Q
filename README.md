@@ -181,6 +181,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -264,6 +265,7 @@
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -475,6 +477,7 @@
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0813-all-paths-from-source-to-target) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 ## Trie
 |  |
@@ -601,6 +604,7 @@
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Graph Theory
 |  |
@@ -613,6 +617,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1212-sequential-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 ## Segment Tree
@@ -639,6 +644,7 @@
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Union-Find
 |  |
 | ------- |
