@@ -96,6 +96,7 @@
 | [1170-shortest-common-supersequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -476,6 +477,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0813-all-paths-from-source-to-target) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
