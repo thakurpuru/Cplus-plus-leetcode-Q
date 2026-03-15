@@ -264,6 +264,7 @@
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1728-fancy-sequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1728-fancy-sequence) |
 | [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -373,6 +374,7 @@
 | [0146-lru-cache](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
+| [1728-fancy-sequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1728-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -625,6 +627,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1728-fancy-sequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1728-fancy-sequence) |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 ## Number Theory
 |  |
