@@ -8,13 +8,13 @@ public:
         
     }
     long long inverse(long long x){
-        long long res=1,p=mod-2;
-        while(p>0){
-            if(p&1) res=(res*x)%mod;
-            x=(x*x)%mod;
-            p>>=1;
+        long long r1=mod,r2=x,t1=0,t2=1;
+        while(r2>0){
+            long long r=r1%r2,q=r1/r2;
+            long long t=(t1-q*t2)%mod;
+            r1=r2;r2=r;t1=t2;t2=t;
         }
-        return res;
+        return (t1+mod)%mod;
     }
     void append(int val) {
         long long v=((val-add+mod)%mod*inverse(mul))%mod;
