@@ -166,6 +166,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0981-delete-columns-to-make-sorted) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1284-four-divisors](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1284-four-divisors) |
@@ -604,6 +605,7 @@
 | [0861-flipping-an-image](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1054-complement-of-base-10-integer) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
