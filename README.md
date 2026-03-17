@@ -35,6 +35,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
 | [0839-short-encoding-of-words](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0839-short-encoding-of-words) |
 | [0870-magic-squares-in-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0870-magic-squares-in-grid) |
@@ -154,6 +155,7 @@
 | [0377-combination-sum-iv](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0377-combination-sum-iv) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0658-find-k-closest-elements) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
