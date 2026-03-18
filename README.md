@@ -637,6 +637,7 @@
 | [1839-decode-xored-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2659-number-of-even-and-odd-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2659-number-of-even-and-odd-bits) |
 ## Graph Theory
 |  |
 | ------- |
