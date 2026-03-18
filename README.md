@@ -629,6 +629,7 @@
 | [0899-binary-gap](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
