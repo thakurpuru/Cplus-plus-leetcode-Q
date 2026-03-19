@@ -207,6 +207,7 @@
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -257,6 +258,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
@@ -331,6 +333,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
