@@ -267,6 +267,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
+| [0397-integer-replacement](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0397-integer-replacement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0759-set-intersection-size-at-least-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0759-set-intersection-size-at-least-two) |
 | [1285-balance-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1285-balance-a-binary-search-tree) |
@@ -355,6 +356,7 @@
 | [0322-coin-change](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0397-integer-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -490,6 +492,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Backtracking
@@ -629,6 +632,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0693-binary-number-with-alternating-bits) |
