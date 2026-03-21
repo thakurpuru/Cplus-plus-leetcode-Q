@@ -73,6 +73,7 @@
 | [0861-flipping-an-image](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0861-flipping-an-image) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3973-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3952-trionic-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3973-flip-square-submatrix-vertically) |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -336,6 +338,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3973-flip-square-submatrix-vertically](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
