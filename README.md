@@ -50,6 +50,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -116,6 +117,7 @@
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
@@ -602,6 +604,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 ## Queue
@@ -655,6 +658,7 @@
 | [1839-decode-xored-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [2659-number-of-even-and-odd-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2659-number-of-even-and-odd-bits) |
 ## Graph Theory
 |  |
