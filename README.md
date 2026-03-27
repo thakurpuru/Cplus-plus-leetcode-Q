@@ -206,6 +206,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -302,6 +303,7 @@
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -318,6 +320,7 @@
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Matrix
@@ -342,6 +345,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3849-equal-sum-grid-partition-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3849-equal-sum-grid-partition-i) |
