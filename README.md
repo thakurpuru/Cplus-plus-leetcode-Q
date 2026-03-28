@@ -43,6 +43,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1160-letter-tile-possibilities) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -129,6 +130,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0658-find-k-closest-elements) |
+| [1034-subarrays-with-k-different-integers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1034-subarrays-with-k-different-integers) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
@@ -179,6 +181,7 @@
 | [0898-transpose-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0898-transpose-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0981-delete-columns-to-make-sorted) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
@@ -613,6 +616,7 @@
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
