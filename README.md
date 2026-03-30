@@ -55,6 +55,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
@@ -122,6 +123,7 @@
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
@@ -255,6 +257,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
