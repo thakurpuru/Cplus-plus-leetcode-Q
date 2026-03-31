@@ -10,6 +10,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0595-big-countries) |
