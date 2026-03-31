@@ -23,6 +23,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1338-queries-quality-and-percentage) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1877-find-followers-count) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
