@@ -12,6 +12,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0584-find-customer-referee) |
