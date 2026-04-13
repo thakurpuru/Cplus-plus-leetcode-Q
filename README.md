@@ -123,6 +123,7 @@
 | [0839-short-encoding-of-words](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0839-short-encoding-of-words) |
 | [0981-delete-columns-to-make-sorted](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0981-delete-columns-to-make-sorted) |
 | [1097-stream-of-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1097-stream-of-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1250-longest-common-subsequence) |
@@ -452,6 +453,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
