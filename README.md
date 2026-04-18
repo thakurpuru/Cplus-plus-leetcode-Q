@@ -35,6 +35,7 @@
 | [1877-find-followers-count](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1942-primary-department-for-each-employee) |
+| [1948-rearrange-products-table](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1948-rearrange-products-table) |
 | [2057-count-salary-categories](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3530-odd-and-even-transactions) |
