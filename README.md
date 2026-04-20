@@ -39,6 +39,7 @@
 | [2057-count-salary-categories](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3530-odd-and-even-transactions) |
+| [3803-find-products-with-valid-serial-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3803-find-products-with-valid-serial-numbers) |
 | [3865-find-product-recommendation-pairs](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3865-find-product-recommendation-pairs) |
 ## Hash Table
 |  |
