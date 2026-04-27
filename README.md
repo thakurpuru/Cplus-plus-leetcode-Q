@@ -334,6 +334,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0342-power-of-four) |
@@ -405,6 +406,7 @@
 | [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0072-edit-distance) |
@@ -772,6 +774,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Union-Find
