@@ -73,6 +73,7 @@
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
@@ -144,6 +145,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
@@ -165,6 +167,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1034-subarrays-with-k-different-integers) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
@@ -676,6 +679,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
