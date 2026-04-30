@@ -44,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0037-sudoku-solver) |
@@ -174,6 +175,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0040-combination-sum-ii) |
