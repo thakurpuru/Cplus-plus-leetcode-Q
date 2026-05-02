@@ -20,9 +20,24 @@ public:
 
     }
     bool exist(vector<vector<char>>& board, string word) {
-        queue<pair<int,int>> q;
         int m=board.size(),n=board[0].size();
-        vector<vector<int>> vis(m,vector<int>(n,-1));
+         if(board.size() * board[0].size() < word.size() ){
+            return false;
+        }
+        
+        unordered_map<char, int> boardFreq;
+
+        for(auto& row: board){
+            for(char c: row){
+                boardFreq[c]++;
+            }
+        }
+
+        for(char c: word){
+            if(--boardFreq[c] < 0){
+                return false;
+            }
+        }
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(board[i][j]==word[0]){
