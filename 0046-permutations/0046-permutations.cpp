@@ -1,32 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    vector<bool> vis;
-    void permutation(vector<int>& nums,vector<int>& path,int i){
-        if(i==nums.size()){
+    void solve(vector<int>& nums,vector<int>& path,vector<bool>& vis){
+        if(path.size()==nums.size()){
             ans.push_back(path);
-            return;
+            return ;
         }
-
-        for(int j=0;j<nums.size();j++){
-            if(!vis[j]){
-                path.push_back(nums[j]);
-                vis[j]=true;
-                permutation(nums,path,i+1);
+        for(int i=0;i<nums.size();i++){
+            if(!vis[i]){
+                path.push_back(nums[i]);
+                vis[i]=true;
+                solve(nums,path,vis);
                 path.pop_back();
-                vis[j]=false;
-
+                vis[i]=false;
             }
-
-            
         }
-                
     }
     vector<vector<int>> permute(vector<int>& nums) {
         int n=nums.size();
-        vis.assign(n,false);
+        vector<bool> vis(n,false);
         vector<int> path;
-        permutation(nums,path,0);
+        solve(nums,path,vis);
         return ans;
     }
 };
