@@ -515,6 +515,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1285-balance-a-binary-search-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1285-balance-a-binary-search-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -541,6 +542,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -750,6 +752,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0207-course-schedule) |
 | [0813-all-paths-from-source-to-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0813-all-paths-from-source-to-target) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Enumeration
@@ -792,6 +795,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Data Stream
 |  |
 | ------- |
