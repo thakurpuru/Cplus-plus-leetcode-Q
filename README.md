@@ -262,6 +262,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -363,6 +364,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -450,6 +452,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Heap (Priority Queue)
@@ -774,6 +777,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bucket Sort
 |  |
 | ------- |
