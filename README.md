@@ -297,6 +297,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3859-maximum-product-of-two-digits) |
 | [3958-minimum-removals-to-balance-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3958-minimum-removals-to-balance-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Linked List
@@ -367,6 +368,7 @@
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3859-maximum-product-of-two-digits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
