@@ -815,4 +815,8 @@
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
