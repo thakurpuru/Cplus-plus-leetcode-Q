@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
@@ -416,6 +417,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
@@ -481,6 +483,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
 | [0342-power-of-four](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0342-power-of-four) |
