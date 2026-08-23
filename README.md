@@ -191,6 +191,7 @@
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0118-pascals-triangle) |
@@ -392,6 +393,7 @@
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -425,6 +427,7 @@
 | [0063-unique-paths-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0118-pascals-triangle) |
@@ -473,6 +476,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -652,6 +656,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
