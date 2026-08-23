@@ -8,15 +8,17 @@ public:
         
         
         if(dp[i][j]!=-1) return dp[i][j];
-        bool match = (i < m && (p[j] == s[i] || p[j] == '.'));
+        
         if(j+1<n && p[j+1]=='*'){
             if(solve(s,p,i,j+2)) return dp[i][j]=true;
-            if(match && solve(s,p,i+1,j)) return dp[i][j]=true;
-               
+            while(i<m && (p[j]==s[i] || p[j]=='.')){
+                if(solve(s,p,i+1,j+2)) return dp[i][j]=true;
+                i++;
+            }
         }else {
-            
-            if(match && solve(s,p,i+1,j+1)) return dp[i][j]=true;
- 
+            if(i<m && (p[j]=='.' || p[j]==s[i])){
+                if(solve(s,p,i+1,j+1)) return dp[i][j]=true;
+            }  
         } 
         return dp[i][j]=false;
     }
