@@ -207,6 +207,7 @@
 | [0239-sliding-window-maximum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0377-combination-sum-iv) |
@@ -440,6 +441,7 @@
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0377-combination-sum-iv) |
