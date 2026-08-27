@@ -85,6 +85,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
@@ -157,6 +158,7 @@
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
 ## Sliding Window
@@ -348,6 +350,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -712,6 +715,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 ## Queue
 |  |
@@ -785,6 +789,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3849-equal-sum-grid-partition-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
 ## Segment Tree
 |  |
