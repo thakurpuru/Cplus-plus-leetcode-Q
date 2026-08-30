@@ -262,6 +262,7 @@
 | [2002-stone-game-viii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2002-stone-game-viii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -352,6 +353,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Math
