@@ -325,6 +325,7 @@
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0328-odd-even-linked-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Prefix Sum
 |  |
 | ------- |
