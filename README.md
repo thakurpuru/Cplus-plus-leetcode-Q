@@ -86,6 +86,7 @@
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
@@ -280,6 +281,7 @@
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3849-equal-sum-grid-partition-i) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3952-trionic-array-i) |
@@ -431,6 +433,7 @@
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3849-equal-sum-grid-partition-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3849-equal-sum-grid-partition-i) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3973-flip-square-submatrix-vertically](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -579,6 +582,7 @@
 | [1753-path-with-minimum-effort](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph
 |  |
 | ------- |
@@ -782,6 +786,7 @@
 | [2659-number-of-even-and-odd-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2659-number-of-even-and-odd-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
