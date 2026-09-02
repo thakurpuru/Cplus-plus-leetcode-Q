@@ -290,6 +290,7 @@
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4343-create-grid-with-exactly-k-paths-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4343-create-grid-with-exactly-k-paths-i) |
 ## Sorting
 |  |
 | ------- |
@@ -391,6 +392,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3859-maximum-product-of-two-digits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
+| [4343-create-grid-with-exactly-k-paths-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4343-create-grid-with-exactly-k-paths-i) |
 ## Simulation
 |  |
 | ------- |
@@ -436,6 +438,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3973-flip-square-submatrix-vertically](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3973-flip-square-submatrix-vertically) |
+| [4343-create-grid-with-exactly-k-paths-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4343-create-grid-with-exactly-k-paths-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -833,6 +836,7 @@
 | [0062-unique-paths](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [4343-create-grid-with-exactly-k-paths-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4343-create-grid-with-exactly-k-paths-i) |
 ## Union-Find
 |  |
 | ------- |
