@@ -290,6 +290,7 @@
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4284-smallest-stable-index-i) |
 | [4343-create-grid-with-exactly-k-paths-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4343-create-grid-with-exactly-k-paths-i) |
 ## Sorting
@@ -394,6 +395,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3859-maximum-product-of-two-digits) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4051-remove-zeros-in-decimal-representation) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4343-create-grid-with-exactly-k-paths-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4343-create-grid-with-exactly-k-paths-i) |
 ## Simulation
 |  |
