@@ -290,6 +290,7 @@
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4284-smallest-stable-index-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4284-smallest-stable-index-i) |
 | [4343-create-grid-with-exactly-k-paths-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4343-create-grid-with-exactly-k-paths-i) |
 ## Sorting
 |  |
@@ -346,6 +347,7 @@
 | [4045-longest-balanced-subarray-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4056-longest-balanced-substring-ii) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
+| [4284-smallest-stable-index-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4284-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
