@@ -156,6 +156,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2107-find-unique-binary-string) |
+| [2115-number-of-unique-good-subsequences](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2115-number-of-unique-good-subsequences) |
 | [2427-first-letter-to-appear-twice](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2427-first-letter-to-appear-twice) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -487,6 +488,7 @@
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2115-number-of-unique-good-subsequences](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2115-number-of-unique-good-subsequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
