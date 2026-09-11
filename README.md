@@ -86,6 +86,7 @@
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3799-unique-3-digit-even-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3885-count-special-triplets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3885-count-special-triplets) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -281,6 +282,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3799-unique-3-digit-even-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3849-equal-sum-grid-partition-i) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -528,6 +530,7 @@
 | [0342-power-of-four](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3799-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -814,6 +817,7 @@
 | [1212-sequential-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1212-sequential-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3799-unique-3-digit-even-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3849-equal-sum-grid-partition-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/4055-longest-balanced-substring-i) |
