@@ -461,6 +461,7 @@
 | [0072-edit-distance](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0119-pascals-triangle-ii) |
@@ -643,6 +644,7 @@
 | [0078-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0216-combination-sum-iii) |
@@ -674,6 +676,7 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -701,6 +704,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0095-unique-binary-search-trees-ii) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -722,6 +726,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0095-unique-binary-search-trees-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0300-longest-increasing-subsequence) |
