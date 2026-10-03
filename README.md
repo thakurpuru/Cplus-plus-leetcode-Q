@@ -117,6 +117,7 @@
 | [0010-regular-expression-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0067-add-binary) |
@@ -454,6 +455,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0062-unique-paths) |
@@ -516,6 +518,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0144-binary-tree-preorder-traversal) |
@@ -893,4 +896,8 @@
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2002-stone-game-viii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
