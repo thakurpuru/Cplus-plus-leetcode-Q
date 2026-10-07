@@ -130,6 +130,7 @@
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0516-longest-palindromic-subsequence) |
@@ -590,6 +591,7 @@
 | [0200-number-of-islands](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -657,6 +659,7 @@
 | [0140-word-break-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0301-remove-invalid-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0813-all-paths-from-source-to-target) |
