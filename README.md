@@ -275,6 +275,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -836,6 +837,7 @@
 | [0204-count-primes](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1212-sequential-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3799-unique-3-digit-even-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/thakurpuru/JavaScript-leetcode-Q/tree/master/3849-equal-sum-grid-partition-i) |
